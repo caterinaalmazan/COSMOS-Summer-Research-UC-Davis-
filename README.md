@@ -5,7 +5,7 @@ California State Summer School for Mathematics and Science is an intensive four-
 https://cosmos-ucop.ucdavis.edu/app/main
 
 
-This statement provides context to the attached research paper titled 
+# This statement provides context to the attached research paper titled 
 “Graphene: The Material Transforming the World of Photovoltaics”
 
 I conducted my research at the California State Summer School for Mathematics and Science at UC Davis from July 8th – August 4th 2018. I performed independent research under the guidance of Dr. Jesús M. Velázquez. I gave a formal presentation on my research at the end of the program and received a Best Presentation Award for my research display. My research explored the potential for graphene, in combination with molybdenum diselenide, to produce a novel effective solar cell that is flexible and economical; this new technology can be very beneficial for developing countries without an effective energy grid, such as Ethiopia. 
